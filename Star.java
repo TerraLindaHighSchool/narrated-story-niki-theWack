@@ -10,7 +10,8 @@ public class Star extends Actor
 {
     private int x, y, speed, size;
     private Color color;
-    
+    // i don't know what I am doing
+    //i need help
     public Star(int speed, Color color, int worldWidth, int worldHeight)
     {
       size = 1 + Greenfoot.getRandomNumber(4);
