@@ -78,5 +78,8 @@ public class Space extends World
         Creature creature = new Creature();
         addObject(creature,170,292);
         creature.getImage();
+        Button button = new Button();
+        addObject(button, 87, 14);
+        
     }
 }
